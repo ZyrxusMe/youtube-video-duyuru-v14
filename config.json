@@ -1,0 +1,6 @@
+{
+    "token": "YOUR_DISCORD_BOT_TOKEN_HERE",
+    "DiscordKanalID": "KANAL_ID",
+    "YouTubeKanalID": "örneğin UCRpjHHu8ivVWs73uxHlWwFA",
+    "message": "@everyone, {author} yeni bir video yayınlandı!"
+}

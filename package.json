@@ -1,0 +1,35 @@
+{
+  "name": "youtube-video-duyuru-v14",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "YouTube kanalınıza attığınız yeni videoyu Discord'da otomatik duyurun.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZyrxusMe/youtube-video-duyuru-v14.git"
+  },
+  "keywords": [
+    "YouTube",
+    "Discord",
+    "Duyuru",
+    "Ayran",
+    "Codeshare",
+    "Altyapi"
+  ],
+  "author": "ZyrxusMe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ZyrxusMe/youtube-video-duyuru-v14/issues"
+  },
+  "homepage": "https://github.com/ZyrxusMe/youtube-video-duyuru-v14#readme",
+  "dependencies": {
+    "ayran": "^0.0.1",
+    "better-sqlite3": "^9.0.0",
+    "discord.js": "^14.13.0",
+    "quick.db": "^9.1.7",
+    "rss-parser": "^3.13.0"
+  }
+}
